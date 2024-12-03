@@ -1,0 +1,15 @@
+.card {
+  margin: 20px auto;
+  max-width: 60%;
+  background-image: url("https://image.made-in-china.com/202f0j00PlZpMkLsAiUS/Outdoor-LED-Light-Giant-Christmas-Tree-with-Christmas-Ball-for-Square-Park.webp");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  border-radius: 10px;
+  border: 3px solid white;
+  color: white;
+  opacity: 0.85;
+  margin-top: 60px;
+}

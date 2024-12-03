@@ -1,0 +1,21 @@
+.box {
+  margin: 6rem;
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+}
+
+.box1 {
+  width: 50%;
+}
+
+.box2 {
+  background-color: red;
+  width: 50%;
+  opacity: 0.9;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
